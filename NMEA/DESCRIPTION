@@ -1,0 +1,13 @@
+Package: NMEA
+Title: NMEA parsing
+Version: 1.0.1
+Authors@R: person(given = "Joost",,        family = "Kuckartz",,        role = c("aut", "cph", "cre"),,        email = "joost.kuckartz@arcadis.com")
+Description: This package enables the processing of NMEA compliant log files to data.tables.
+Depends: R (>= 3.3.3),
+    data.table,
+    stringr
+License: Undecided
+Encoding: UTF-8
+LazyData: true
+Date: 2018-09-14
+RoxygenNote: 6.0.1
